@@ -8,7 +8,7 @@ hDC Host é um pequeno projeto que simula uma página fornecedora de serviços d
 
 ## Stack utilizada
 
-**Front-end:** HTML, CSS
+**Front-end:** HTML5, CSS3
 
 
 ## 🔗 Links
